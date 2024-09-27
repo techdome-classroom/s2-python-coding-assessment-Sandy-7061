@@ -12,3 +12,5 @@ class Solution(object):
                 stack.append(char)
         
         return not stack
+if __name__ == '__main__':
+    unittest.main(verbosity=2)
